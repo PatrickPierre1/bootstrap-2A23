@@ -1,1 +1,5 @@
-var teste = document.querySelector('.title').innerHTML('teste');
+function teste() {
+    const test = document.querySelector(body).innerHTML('<div><div/>');
+}
+
+teste();

@@ -1,0 +1,16 @@
+body{
+    background-color: royalblue;
+}
+header{
+    margin: 2vh auto;
+}
+header,nav,main,.row div, .d-flex div, .d-inline-flex div{
+    background-color: #fff;
+    min-height: 10vh;
+    padding: 2vh!important;
+    border: 5px solid royalblue;
+}
+nav,main{
+    min-height: 82vh;
+} 
+
